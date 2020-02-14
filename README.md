@@ -1,4 +1,4 @@
-# Corporate success Metrics
+# Individual success Metrics
 
 I - Independence 
 
