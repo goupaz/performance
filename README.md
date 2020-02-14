@@ -1,5 +1,7 @@
 # Individual success Metrics
 
+ Surround yourself with people who have “seen the movie” before.
+ 
 I - Independence 
 
 C - Complexity
