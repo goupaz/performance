@@ -32,22 +32,27 @@ High-level instruction on new tasks, little guidance on daily work:
 - Cost analysis
 
 ## Execution
-research/spike (pros & cons) 
-select tool / approach
-design solution
-test
-develop
-document
-monitor/maintenance flow
+- research/spike (pros & cons) 
+- select tool / approach
+- design solution
+- test
+- develop
+- document
+- monitor/maintenance flow
 
-Predictable
-Strong on commits, dates.
 
-Accountable
+### Predictable
+- Strong on commits, dates.
+
+### Accountable
 - timebox efforts
 - prioritize tasks
 - keep a time log
 
+### Result Focused
+What results are important – and what steps need to be taken to achieve them
+
+### Short-term small wins
 
 ## Spike Development
 
