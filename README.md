@@ -1,13 +1,16 @@
 # Corporate success Metrics
 
 I - Independence 
+
 C - Complexity
+
 M - Maturity
+
 E - Execution
 
 ## Independence 
 High-level instruction on new tasks, little guidance on daily work:
-- [checkbox:unchecked] Analyze users’ needs 
+- Analyze users’ needs 
 - Talk to vendors
 
 ## Complexity
