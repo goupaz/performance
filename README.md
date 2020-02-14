@@ -15,7 +15,11 @@ High-level instruction on new tasks, little guidance on daily work:
 
 ## Complexity
 - scope size: S,M,L,XL
-- time duration: s1d,s1w,m2W,m30d,l60d,l1Q,xl1Y.
+- time duration: 
+  - s1d, s1w
+  - m2W, m30d
+  - l60d, l1Q
+  - xl1Y
 
 
 ## Maturity
