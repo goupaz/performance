@@ -7,7 +7,7 @@ E - Execution
 
 ## Independence 
 High-level instruction on new tasks, little guidance on daily work:
-- Analyze users’ needs # [checkbox:unchecked]
+- [checkbox:unchecked] Analyze users’ needs 
 - Talk to vendors
 
 ## Complexity
