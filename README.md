@@ -60,6 +60,14 @@ What results are important – and what steps need to be taken to achieve them
 
 ## Engineering Blog
 
+## Mentoring
+
+- Define clear goal
+- Understand where community is
+- Define path, how to achieve the goal
+- Define how measure the progress
+- Define what community will get once get there
+
 ## Engineering Domain Knowledge 
 - certification
 - open source projects
